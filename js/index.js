@@ -1,4 +1,5 @@
 const title = document.querySelector('.title')
+title.style.fontSize = "0.5rem";
 const text = `Aku Punya Sesuatu Untukmu`.split('')
 
 // Create container for better responsive layout
