@@ -5,6 +5,7 @@ onload = () => {
 
     const titles = ('Dunia mungkin melihatmu hanya sebagai seorang ibu, tapi bagi Ayah dan anak-anak, Bunda adalah dunia kami. Terima kasih sudah menjaga kami dengan sangat baik, Tanpa Bunda, kami bukanlah apa-apa.').split('')
     const titleElement = document.getElementById('title');
+    titleElement.style.fontSize = '0.8rem';
     let index = 0;
 
     function appendTitle() {
