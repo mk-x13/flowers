@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = `Aku Punya Sesuatu Untukmu`.split('')
+const text = `Dunia mungkin melihatmu hanya sebagai seorang ibu, tapi bagi Ayah dan anak-anak, Bunda adalah dunia kami. Terima kasih sudah menjaga kami dengan sangat baik, Tanpa Bunda, kami bukanlah apa-apa.`.split('')
 
 // Create container for better responsive layout
 title.style.display = 'flex'
