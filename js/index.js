@@ -1,5 +1,6 @@
 const title = document.querySelector('.title')
-const text = `Dunia mungkin melihatmu hanya sebagai seorang ibu, tapi bagi Ayah dan anak-anak, Bunda adalah dunia kami. Terima kasih sudah menjaga kami dengan sangat baik, Tanpa Bunda, kami bukanlah apa-apa.`.split('')
+title.style.fontSize = "0.5rem";
+const text = `Aku Punya Sesuatu Untukmu`.split('')
 
 // Create container for better responsive layout
 title.style.display = 'flex'
